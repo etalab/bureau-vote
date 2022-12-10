@@ -1,4 +1,4 @@
-geopandas==0.12.0
+geopandas==0.12.2
 pygeos==0.13
 pandas==1.5.0
 pydeck==0.7.1
